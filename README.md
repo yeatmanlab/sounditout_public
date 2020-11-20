@@ -1,2 +1,6 @@
-# sounditout_public
-data and code associated with Donnelly, et al. "A symbolic annotation of vowel sounds for emerging readers"
+# SoundItOut
+## Code and data associated with Donnelly, et al., 2020
+Authors: Patrick M. Donnelly, Liesbeth Gijbels, Kevin Larson, Tanya Matskewich, Paul Linnerud, Patricia K. Kuhl, and Jason D. Yeatman
+
+## Summary
+
